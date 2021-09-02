@@ -19,3 +19,12 @@ public struct Piece {
     public PieceColor Color { get; set; }
 
 }
+
+public class Square {
+
+    public int X { get; set; }
+
+    public int Y { get; set; }
+
+}
+
