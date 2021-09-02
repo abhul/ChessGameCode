@@ -1,0 +1,1 @@
+https://massivetechinterview.blogspot.com/2015/07/design-chess-game-using-oo-principles.html
